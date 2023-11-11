@@ -34,7 +34,7 @@ Clone the repository
 ## Video 
 For a step-by-step guide on setting up and using the To-Do List app watch my tutorial on YouTube:
 
-[![To-Do List App Tutorial](https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_YOUTUBE_VIDEO_ID)
+(https://youtu.be/mNEIduGgYpI)
 
 To-Do List App Tutorial
 
