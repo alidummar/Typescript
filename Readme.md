@@ -1,7 +1,8 @@
 # To-Do List App with TypeScript
 
 This To-Do List app is built with HTML, CSS, JavaScript, and TypeScript. It provides a simple interface for managing tasks, allowing users to add, edit, and delete tasks.
-![Alt Text](./Screenshot%202023-11-11%20at%204.40.08 PM.png)
+
+![TASK photo](./pics/Screenshot%202023-11-11%20at%204.40.08 PM.png)
 
 
 ## Table of Contents
